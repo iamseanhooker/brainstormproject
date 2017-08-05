@@ -13,7 +13,7 @@ notes and ideas for future projects.
       
       <h2> <font size-="1" </font>
         IDEA #1<h2>
-      <p title = "weather app"> <font         size="5" </font> Weather app</p>
+      <p title = "weather app"> <font size="5" </font> Weather app</p>
  
     </body>
  </html>
